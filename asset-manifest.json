@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsbook/static/css/main.1288337e.chunk.css",
+    "main.js": "/monsbook/static/js/main.358700e6.chunk.js",
+    "main.js.map": "/monsbook/static/js/main.358700e6.chunk.js.map",
+    "runtime-main.js": "/monsbook/static/js/runtime-main.8be5056a.js",
+    "runtime-main.js.map": "/monsbook/static/js/runtime-main.8be5056a.js.map",
+    "static/js/2.2363b477.chunk.js": "/monsbook/static/js/2.2363b477.chunk.js",
+    "static/js/2.2363b477.chunk.js.map": "/monsbook/static/js/2.2363b477.chunk.js.map",
+    "index.html": "/monsbook/index.html",
+    "precache-manifest.31fdf6b4750c07e1dc3fe2560b9ab521.js": "/monsbook/precache-manifest.31fdf6b4750c07e1dc3fe2560b9ab521.js",
+    "service-worker.js": "/monsbook/service-worker.js",
+    "static/css/main.1288337e.chunk.css.map": "/monsbook/static/css/main.1288337e.chunk.css.map",
+    "static/js/2.2363b477.chunk.js.LICENSE.txt": "/monsbook/static/js/2.2363b477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be5056a.js",
+    "static/js/2.2363b477.chunk.js",
+    "static/css/main.1288337e.chunk.css",
+    "static/js/main.358700e6.chunk.js"
+  ]
+}
